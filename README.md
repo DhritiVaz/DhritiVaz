@@ -1,4 +1,4 @@
-# Hi, I'm Dhriti Vaz 👋  
+# Hi, I'm Dhriti Vaz
 *Web Developer • Learning & Building • Always Improving*
 
 I’m a developer exploring web technologies, writing lots of code, making mistakes, fixing them, and slowly getting better.  
