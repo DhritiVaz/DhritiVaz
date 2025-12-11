@@ -52,7 +52,6 @@ I’m still improving these skills — learning one step at a time.
 ---
 
 ## 📫 Connect With Me
-*(Add links when ready)*  
 - **Portfolio:** coming soon  
 - **LinkedIn:** coming soon  
 
