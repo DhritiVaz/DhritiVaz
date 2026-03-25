@@ -48,4 +48,4 @@ Backend system for billing operations and inventory tracking — invoice generat
 
 ---
 
-[LinkedIn](https://linkedin.com/in/dhritivaz) · Portfolio — coming soon
+[LinkedIn](https://linkedin.com/in/dhritivaz) · [Portfoilo](https://dhriti-vaz-portfolio.vercel.app/)
