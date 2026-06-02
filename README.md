@@ -1,12 +1,40 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=72&pause=99999&color=FFFFFF&center=true&vCenter=true&width=900&height=120&lines=Dhriti+Vaz" alt="Dhriti Vaz" />
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Flutter+%26+Mobile+Engineer;UI%2FUX+%E2%80%94+obsessed+with+interfaces;Building+real+things+in+Year+1">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Flutter+%26+Mobile+Engineer;UI%2FUX+%E2%80%94+obsessed+with+interfaces;Building+real+things+in+Year+1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Flutter+%26+Mobile+Engineer;UI%2FUX+%E2%80%94+obsessed+with+interfaces;Building+real+things+in+Year+1" alt="Typing SVG" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=72&pause=99999&color=FFFFFF&center=true&vCenter=true&width=900&height=120&lines=Dhriti+Vaz"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=72&pause=99999&color=000000&center=true&vCenter=true&width=900&height=120&lines=Dhriti+Vaz"
+  />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=72&pause=99999&color=FFFFFF&center=true&vCenter=true&width=900&height=120&lines=Dhriti+Vaz"
+    alt="Dhriti Vaz"
+    style="display:block;"
+  />
 </picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Flutter+%26+Mobile+Engineer;UI%2FUX+%E2%80%94+obsessed+with+interfaces;Building+real+things+in+3rd+Year"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Flutter+%26+Mobile+Engineer;UI%2FUX+%E2%80%94+obsessed+with+interfaces;Building+real+things+in+3rd+Year"
+  />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Flutter+%26+Mobile+Engineer;UI%2FUX+%E2%80%94+obsessed+with+interfaces;Building+real+things+in+3rd+Year"
+    alt="Typing SVG"
+    style="display:block;margin-top:-20px;"
+  />
+</picture>
+
+</div>
 
 <br/>
 
@@ -14,7 +42,7 @@
 
 I build full-stack web apps, Flutter mobile apps, and backend systems with a focus on<br/>
 clean API design and interfaces people actually want to use.<br/>
-Currently in Year 1 — interning, shipping, learning by doing.
+Currently in 3rd Year — interning, shipping, learning by doing.
 
 <br/>
 
