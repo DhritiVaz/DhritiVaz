@@ -46,7 +46,7 @@ Currently in 3rd Year — interning, shipping, learning by doing.
 
 <br/>
 
-[dhriti-vaz-portfolio.vercel.app](https://dhriti-vaz-portfolio.vercel.app/) · [linkedin.com/in/dhritivaz](https://linkedin.com/in/dhritivaz) · [dhriti.vaz@gmail.com](mailto:dhriti.vaz@gmail.com)
+[dhriti.dev](https://dhriti.dev) · [linkedin.com/in/dhritivaz](https://linkedin.com/in/dhritivaz) · [dhriti.vaz@gmail.com](mailto:dhriti.vaz@gmail.com)
 
 </div>
 
