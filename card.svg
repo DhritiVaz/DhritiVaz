@@ -77,15 +77,15 @@
 <text x="32" y="410" font-size="9" fill="var(--muted)" letter-spacing="2" font-weight="500">EXPERIENCE</text>
 
 <text x="32" y="430" font-size="11" font-weight="500" fill="var(--text)">Ambian Strategy — Full Stack Developer</text>
-<text x="636" y="430" font-size="10" fill="var(--muted)" text-anchor="end">2025</text>
+<text x="636" y="430" font-size="10" fill="var(--muted)" text-anchor="end">June 2026 - Present</text>
 <text x="32" y="444" font-size="10" fill="var(--muted)">proposalOS · scraping pipeline · AI scoring · guest preview</text>
 
 <text x="32" y="462" font-size="11" font-weight="500" fill="var(--text)">VIT SCOPE — Summer Research Intern (SRIP)</text>
-<text x="636" y="462" font-size="10" fill="var(--muted)" text-anchor="end">2025</text>
+<text x="636" y="462" font-size="10" fill="var(--muted)" text-anchor="end">May 2026 - Present</text>
 <text x="32" y="476" font-size="10" fill="var(--muted)">bio-inspired hallucination suppression · blockchain audit · TruthfulQA</text>
 
 <text x="32" y="494" font-size="11" font-weight="500" fill="var(--text)">GeoPacific Solutions — Billing System Developer</text>
-<text x="636" y="494" font-size="10" fill="var(--muted)" text-anchor="end">2025</text>
+<text x="636" y="494" font-size="10" fill="var(--muted)" text-anchor="end">May 2025 - July 2025</text>
 <text x="32" y="508" font-size="10" fill="var(--muted)">multi-role billing backend · JSONB schema · RESTful API</text>
 
 <line x1="32" y1="524" x2="648" y2="524" stroke="var(--border)" stroke-width="0.5"/>
@@ -134,8 +134,5 @@
 <text x="467" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">redis</text>
 
 <line x1="32" y1="604" x2="648" y2="604" stroke="var(--border)" stroke-width="0.5"/>
-
-<!-- links -->
-<text x="340" y="626" font-size="10" fill="var(--muted)" text-anchor="middle" letter-spacing="0.3">dhriti.dev · linkedin · dhriti.vaz@gmail.com</text>
 
 </svg>
