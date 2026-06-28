@@ -1,0 +1,97 @@
+<svg viewBox="0 0 680 520" xmlns="http://www.w3.org/2000/svg" font-family="'SF Mono', 'Fira Code', 'Cascadia Code', monospace">
+<style>
+:root { --bg: #ffffff; --bg1: #f6f8fa; --border: #d0d7de; --text: #1f2328; --muted: #656d76; --tag-bg: #f6f8fa; --tag-border: #d0d7de; }
+@media (prefers-color-scheme: dark) {
+:root { --bg: #0d1117; --bg1: #161b22; --border: #30363d; --text: #e6edf3; --muted: #8b949e; --tag-bg: #161b22; --tag-border: #30363d; }
+}
+</style>
+
+<rect width="680" height="520" fill="var(--bg)"/>
+
+<!-- name + tagline -->
+<text x="32" y="44" font-size="13" font-weight="500" fill="var(--text)" letter-spacing="1.5">dhriti vaz</text>
+<text x="32" y="62" font-size="11" fill="var(--muted)" letter-spacing="0.5">full-stack · ai · vit chennai · building things that ship</text>
+
+<!-- divider -->
+<line x1="32" y1="78" x2="648" y2="78" stroke="var(--border)" stroke-width="0.5"/>
+
+<!-- section label -->
+<text x="32" y="98" font-size="9" fill="var(--muted)" letter-spacing="2" font-weight="500">SELECTED WORK</text>
+
+<!-- project grid: 2x2, hairline borders -->
+<!-- outer rect -->
+<rect x="32" y="110" width="616" height="260" fill="none" stroke="var(--border)" stroke-width="0.5"/>
+<!-- vertical divider -->
+<line x1="340" y1="110" x2="340" y2="370" stroke="var(--border)" stroke-width="0.5"/>
+<!-- horizontal divider -->
+<line x1="32" y1="240" x2="648" y2="240" stroke="var(--border)" stroke-width="0.5"/>
+
+<!-- project 1: student dashboard -->
+<text x="48" y="136" font-size="11.5" font-weight="500" fill="var(--text)" letter-spacing="0.3">student dashboard</text>
+<text x="48" y="154" font-size="10" fill="var(--muted)">Unified interface for VTOP and LMS. Attendance</text>
+<text x="48" y="168" font-size="10" fill="var(--muted)">tracker, CGPA simulator, task manager, timetable</text>
+<text x="48" y="182" font-size="10" fill="var(--muted)">— all behind JWT + Google OAuth.</text>
+<rect x="48" y="196" width="58" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="77" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">react.js</text>
+<rect x="112" y="196" width="66" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="145" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">typescript</text>
+<rect x="184" y="196" width="56" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="212" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">prisma</text>
+<rect x="246" y="196" width="62" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="277" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">tailwind</text>
+
+<!-- project 2: course & module recognition -->
+<text x="356" y="136" font-size="11.5" font-weight="500" fill="var(--text)" letter-spacing="0.3">course &amp; module recognition</text>
+<text x="356" y="154" font-size="10" fill="var(--muted)">ML system that classifies academic courses from</text>
+<text x="356" y="168" font-size="10" fill="var(--muted)">unstructured input — handles the noise and</text>
+<text x="356" y="182" font-size="10" fill="var(--muted)">inconsistency in real institutional formats.</text>
+<rect x="356" y="196" width="40" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="376" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">python</text>
+<rect x="402" y="196" width="58" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="431" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">sklearn</text>
+<rect x="466" y="196" width="40" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="486" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">nlp</text>
+
+<!-- project 3: expense tracker -->
+<text x="48" y="266" font-size="11.5" font-weight="500" fill="var(--text)" letter-spacing="0.3">expense tracker</text>
+<text x="48" y="284" font-size="10" fill="var(--muted)">Multi-user finance tracker. Type "lunch 80 today"</text>
+<text x="48" y="298" font-size="10" fill="var(--muted)">and it just works. Smart savings planner, streak</text>
+<text x="48" y="312" font-size="10" fill="var(--muted)">tracking, Chart.js dashboard. Live on Render.</text>
+<rect x="48" y="326" width="42" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="69" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">flask</text>
+<rect x="96" y="326" width="66" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="129" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">postgresql</text>
+<rect x="168" y="326" width="58" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="197" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">chart.js</text>
+
+<!-- project 4: krypt -->
+<text x="356" y="266" font-size="11.5" font-weight="500" fill="var(--text)" letter-spacing="0.3">krypt</text>
+<text x="356" y="284" font-size="10" fill="var(--muted)">Zero-knowledge password manager. Argon2id key</text>
+<text x="356" y="298" font-size="10" fill="var(--muted)">derivation, AES-256-GCM, TOTP 2FA, Redis rate</text>
+<text x="356" y="312" font-size="10" fill="var(--muted)">limiting. 96 tests at 93% coverage.</text>
+<rect x="356" y="326" width="42" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="377" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">flask</text>
+<rect x="404" y="326" width="66" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="437" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">postgresql</text>
+<rect x="476" y="326" width="44" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="498" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">docker</text>
+
+<!-- divider -->
+<line x1="32" y1="392" x2="648" y2="392" stroke="var(--border)" stroke-width="0.5"/>
+
+<!-- experience section -->
+<text x="32" y="412" font-size="9" fill="var(--muted)" letter-spacing="2" font-weight="500">EXPERIENCE</text>
+
+<text x="32" y="432" font-size="11" font-weight="500" fill="var(--text)">Ambian Strategy — Full Stack Developer</text>
+<text x="620" y="432" font-size="10" fill="var(--muted)" text-anchor="end">2025</text>
+<text x="32" y="446" font-size="10" fill="var(--muted)">proposalOS · scraping pipeline · AI scoring · guest preview</text>
+
+<text x="32" y="464" font-size="11" font-weight="500" fill="var(--text)">VIT SCOPE — Summer Research Intern (SRIP)</text>
+<text x="620" y="464" font-size="10" fill="var(--muted)" text-anchor="end">2025</text>
+<text x="32" y="478" font-size="10" fill="var(--muted)">bio-inspired hallucination suppression · blockchain audit · TruthfulQA</text>
+
+<text x="32" y="496" font-size="11" font-weight="500" fill="var(--text)">GeoPacific Solutions — Billing System Developer</text>
+<text x="620" y="496" font-size="10" fill="var(--muted)" text-anchor="end">2025</text>
+<text x="32" y="510" font-size="10" fill="var(--muted)">multi-role billing backend · JSONB schema · RESTful API</text>
+
+</svg>
